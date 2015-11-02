@@ -1,10 +1,10 @@
-package basics.helloworld;
+package javabasics;
 
 public class HelloWorld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("HelloWold!");
+		System.out.println("Hello World, JAVA!");
 
 	}
 

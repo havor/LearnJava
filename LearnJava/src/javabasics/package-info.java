@@ -5,4 +5,4 @@
  * @author Ryan Tan
  *
  */
-package basics;
+package javabasics;
